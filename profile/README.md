@@ -16,4 +16,5 @@ You can view our stack on [stackshare].
 -->
 
 [nous]: https://nous.co/
+[stackshare]: https://stackshare.io/nous/nous
 [GitHub]: https://github.com/

@@ -2,6 +2,8 @@
 
 We're [nous], a new kind of service to help you keep on-top of your household expenditure. You can read about how the business works at [nous.co][nous].
 
+You can view our stack on [stackshare].
+
 <!--
 
 **Here are some ideas to get you started:**

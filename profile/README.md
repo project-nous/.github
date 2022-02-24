@@ -4,6 +4,8 @@ We're [nous], a new kind of service to help you keep on-top of your household ex
 
 You can view our stack on [stackshare].
 
+If you're interested in joining us, you can view our [careers page].
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -18,3 +20,4 @@ You can view our stack on [stackshare].
 [nous]: https://nous.co/
 [stackshare]: https://stackshare.io/nous/nous
 [GitHub]: https://github.com/
+[careers page]: https://nous.co/careers
